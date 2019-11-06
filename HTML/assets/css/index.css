@@ -1,0 +1,33 @@
+.card-image {
+    margin: 0 auto;
+    border-radius: 50%;
+    display: flex;
+    align-items: center;
+}
+.card-image.orientationkit {
+    background-color: #f6c253;
+}
+.card-image.campuskit {
+    background-color: #6bbe96;
+}
+.card-image.attendancekit {
+    background-color: #6b7bbe;
+}
+.card-image.retainai {
+    background-color: #41c3f1;
+}
+
+.p {
+    color: rgba(0, 0, 0, 0.3);
+    color: rgba(255, 255, 255, 0.4);
+    margin-top: 1%;
+    /* color: white; */
+}
+
+.a {
+    margin: 2ex;
+    background-color: aqua;
+    color: black;
+}
+
+

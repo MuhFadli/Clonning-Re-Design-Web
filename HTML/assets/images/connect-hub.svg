@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="20px" height="24px" viewBox="0 0 20 24" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 54.1 (76490) - https://sketchapp.com -->
+    <title>integrations</title>
+    <desc>Created with Sketch.</desc>
+    <g id="Symbols" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Menu-/-Resources" transform="translate(-55.000000, -146.000000)" fill="#083741">
+            <g id="Integrations" transform="translate(40.000000, 125.000000)">
+                <path d="M25,42 C25.5522847,42 26,42.4477153 26,43 L26,44 C26,44.5522847 25.5522847,45 25,45 C24.4477153,45 24,44.5522847 24,44 L24,43 C24,42.4477153 24.4477153,42 25,42 Z M34,25 C34.553,25 35,25.447 35,26 C35,26.553 34.553,27 34,27 L33,27 L33,32 C33,36.411 29.411,40 25,40 C20.589,40 17,36.411 17,32 L17,27 L16,27 C15.447,27 15,26.553 15,26 C15,25.447 15.447,25 16,25 L20,25 L20,22 C20,21.447 20.447,21 21,21 C21.553,21 22,21.447 22,22 L22,25 L28,25 L28,22 C28,21.447 28.447,21 29,21 C29.553,21 30,21.447 30,22 L30,25 L34,25 Z" id="integrations"></path>
+            </g>
+        </g>
+    </g>
+</svg>
